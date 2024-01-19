@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/paulopoig/paulopoig/assets/78188625/11fa2515-afb0-4b3d-bbd2-4838174efe36)
 
 <br>
-<h1 align="center">Hi 👋, I'm Paulo!</h1>
+<h1 align="center"><i>Hi, I'm Paulo!</i></h1>
 <h3 align="center">A Passionate designer and developer of web and system applications focusing on user-centered, streamlined experiences achieved through clean UI design and efficient logic to solve real-world problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/paulopoig/paulopoig/assets/78188625/b76c90cb-30ee-4378-bf4a-e7bf25fcd6d4">
 
