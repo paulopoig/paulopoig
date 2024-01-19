@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/paulopoig/paulopoig/assets/78188625/90b241a4-55de-4fc2-8a7d-86d4b2487591)
+![MasterHead](https://github.com/paulopoig/paulopoig/assets/78188625/11fa2515-afb0-4b3d-bbd2-4838174efe36)
 
 <br>
 <h1 align="center">Hi 👋, I'm Paulo!</h1>
