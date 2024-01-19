@@ -1,6 +1,7 @@
-
+![MasterHead](https://github.com/paulopoig/paulopoig/assets/78188625/4f19f542-e5a9-4ca7-8a8e-301b9c2bcd59)
 <h1 align="center">Hi 👋, I'm Paulo</h1>
 <h3 align="center">A Passionate designer and developer of web and system applications focusing on user-centered, streamlined experiences achieved through clean UI design and efficient logic to solve real-world problems.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on [ThomaSIGHTS](https://gprm.itsvg.in/)
 
