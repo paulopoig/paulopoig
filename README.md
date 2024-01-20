@@ -16,8 +16,6 @@
 
 - 🤝 I’m looking for help with **Front End Development Libraries**
 
-- 👨‍💻 All of my projects are available at [https://gprm.itsvg.in/](https://gprm.itsvg.in/)
-
 - 💬 Ask me about **UI/UX, Front End Development, a little bit of Back End**
 
 - 📫 How to reach me **paulobrave17@gmail.com**
