@@ -8,7 +8,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [ThomaSIGHTS](https://gprm.itsvg.in/)
+- 🔭 I’m currently working on [ThomaSIGHTS]([https://gprm.itsvg.in/](https://github.com/paulopoig/ThomaSIGHTS))
 
 - 🌱 I’m currently learning **Adobe Creative Cloud & Webflow**
 
